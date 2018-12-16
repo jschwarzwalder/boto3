@@ -2,6 +2,48 @@
 CHANGELOG
 =========
 
+1.9.66
+======
+
+* api-change:``alexaforbusiness``: [``botocore``] Update alexaforbusiness client to latest version
+* api-change:``redshift``: [``botocore``] Update redshift client to latest version
+* api-change:``cloudformation``: [``botocore``] Update cloudformation client to latest version
+
+
+1.9.65
+======
+
+* api-change:``organizations``: [``botocore``] Update organizations client to latest version
+* api-change:``pinpoint-email``: [``botocore``] Update pinpoint-email client to latest version
+
+
+1.9.64
+======
+
+* api-change:``route53``: [``botocore``] Update route53 client to latest version
+* api-change:``glue``: [``botocore``] Update glue client to latest version
+* api-change:``sagemaker``: [``botocore``] Update sagemaker client to latest version
+* api-change:``eks``: [``botocore``] Update eks client to latest version
+
+
+1.9.63
+======
+
+* api-change:``mediastore``: [``botocore``] Update mediastore client to latest version
+* api-change:``ecs``: [``botocore``] Update ecs client to latest version
+* api-change:``connect``: [``botocore``] Update connect client to latest version
+
+
+1.9.62
+======
+
+* api-change:``ec2``: [``botocore``] Update ec2 client to latest version
+* enhancement:AssumeRole: [``botocore``] Add support for duration_seconds when assuming a role in the config file (`#1600 <https://github.com/boto/botocore/issues/1600>`__).
+* api-change:``iam``: [``botocore``] Update iam client to latest version
+* api-change:``servicecatalog``: [``botocore``] Update servicecatalog client to latest version
+* api-change:``alexaforbusiness``: [``botocore``] Update alexaforbusiness client to latest version
+
+
 1.9.61
 ======
 
