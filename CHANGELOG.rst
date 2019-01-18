@@ -2,6 +2,22 @@
 CHANGELOG
 =========
 
+1.9.82
+======
+
+* api-change:``glue``: [``botocore``] Update glue client to latest version
+* api-change:``ec2``: [``botocore``] Update ec2 client to latest version
+
+
+1.9.81
+======
+
+* api-change:``lightsail``: [``botocore``] Update lightsail client to latest version
+* api-change:``lambda``: [``botocore``] Update lambda client to latest version
+* api-change:``pinpoint``: [``botocore``] Update pinpoint client to latest version
+* api-change:``rekognition``: [``botocore``] Update rekognition client to latest version
+
+
 1.9.80
 ======
 
