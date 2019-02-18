@@ -2,6 +2,21 @@
 CHANGELOG
 =========
 
+1.9.96
+======
+
+* api-change:``chime``: [``botocore``] Update chime client to latest version
+* api-change:``application-autoscaling``: [``botocore``] Update application-autoscaling client to latest version
+* api-change:``iot``: [``botocore``] Update iot client to latest version
+
+
+1.9.95
+======
+
+* api-change:``kinesisvideo``: [``botocore``] Update kinesisvideo client to latest version
+* api-change:``ec2``: [``botocore``] Update ec2 client to latest version
+
+
 1.9.94
 ======
 
