@@ -2,6 +2,29 @@
 CHANGELOG
 =========
 
+1.9.127
+=======
+
+* api-change:``securityhub``: [``botocore``] Update securityhub client to latest version
+* api-change:``ec2``: [``botocore``] Update ec2 client to latest version
+* api-change:``acm``: [``botocore``] Update acm client to latest version
+
+
+1.9.126
+=======
+
+* api-change:``emr``: [``botocore``] Update emr client to latest version
+* api-change:``ssm``: [``botocore``] Update ssm client to latest version
+
+
+1.9.125
+=======
+
+* api-change:``comprehend``: [``botocore``] Update comprehend client to latest version
+* api-change:``cloudwatch``: [``botocore``] Update cloudwatch client to latest version
+* api-change:``greengrass``: [``botocore``] Update greengrass client to latest version
+
+
 1.9.124
 =======
 
