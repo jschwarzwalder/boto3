@@ -2,6 +2,24 @@
 CHANGELOG
 =========
 
+1.9.144
+=======
+
+* api-change:``appsync``: [``botocore``] Update appsync client to latest version
+* api-change:``storagegateway``: [``botocore``] Update storagegateway client to latest version
+* api-change:``ssm``: [``botocore``] Update ssm client to latest version
+* api-change:``alexaforbusiness``: [``botocore``] Update alexaforbusiness client to latest version
+
+
+1.9.143
+=======
+
+* api-change:``config``: [``botocore``] Update config client to latest version
+* api-change:``iam``: [``botocore``] Update iam client to latest version
+* api-change:``sts``: [``botocore``] Update sts client to latest version
+* api-change:``codepipeline``: [``botocore``] Update codepipeline client to latest version
+
+
 1.9.142
 =======
 
