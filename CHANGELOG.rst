@@ -2,6 +2,21 @@
 CHANGELOG
 =========
 
+1.9.147
+=======
+
+* api-change:``datasync``: [``botocore``] Update datasync client to latest version
+* api-change:``iotanalytics``: [``botocore``] Update iotanalytics client to latest version
+* api-change:``lambda``: [``botocore``] Update lambda client to latest version
+
+
+1.9.146
+=======
+
+* api-change:``glue``: [``botocore``] Update glue client to latest version
+* api-change:``sts``: [``botocore``] Update sts client to latest version
+
+
 1.9.145
 =======
 
